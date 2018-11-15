@@ -1,0 +1,55 @@
+C:\Users\Luxury\Desktop\Client_Server\Client\bin\Debug\Client.exe.config
+C:\Users\Luxury\Desktop\Client_Server\Client\bin\Debug\Client.exe
+C:\Users\Luxury\Desktop\Client_Server\Client\bin\Debug\Client.pdb
+C:\Users\Luxury\Desktop\Client_Server\Client\obj\Debug\Client.Form1.resources
+C:\Users\Luxury\Desktop\Client_Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Luxury\Desktop\Client_Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Luxury\Desktop\Client_Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Luxury\Desktop\Client_Server\Client\obj\Debug\Client.exe
+C:\Users\Luxury\Desktop\Client_Server\Client\obj\Debug\Client.pdb
+C:\Users\Luxury\Desktop\Client_Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Project\lab5\Client_Server-20180503T025436Z-001\Client_Server\Client\bin\Debug\Client.exe.config
+E:\Project\lab5\Client_Server-20180503T025436Z-001\Client_Server\Client\obj\Debug\Client.exe
+E:\Project\lab5\Client_Server-20180503T025436Z-001\Client_Server\Client\obj\Debug\Client.pdb
+E:\Project\lab5\Client_Server-20180503T025436Z-001\Client_Server\Client\bin\Debug\Client.exe
+E:\Project\lab5\Client_Server-20180503T025436Z-001\Client_Server\Client\bin\Debug\Client.pdb
+E:\Project\lab5\Client_Server-20180503T025436Z-001\Client_Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Project\lab5\Client_Server-20180503T025436Z-001\Client_Server\Client\obj\Debug\Client.Form1.resources
+E:\Project\lab5\Client_Server-20180503T025436Z-001\Client_Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Project\lab5\Client_Server-20180503T025436Z-001\Client_Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Project\lab5\Client_Server-20180503T025436Z-001 - Copy\Client_Server\Client\bin\Debug\Client.exe.config
+E:\Project\lab5\Client_Server-20180503T025436Z-001 - Copy\Client_Server\Client\obj\Debug\Client.exe
+E:\Project\lab5\Client_Server-20180503T025436Z-001 - Copy\Client_Server\Client\obj\Debug\Client.pdb
+E:\Project\lab5\Client_Server-20180503T025436Z-001 - Copy\Client_Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Project\lab5\Client_Server-20180503T025436Z-001 - Copy\Client_Server\Client\obj\Debug\Client.Form1.resources
+E:\Project\lab5\Client_Server-20180503T025436Z-001 - Copy\Client_Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Project\lab5\Client_Server-20180503T025436Z-001 - Copy\Client_Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Project\lab5\Client_Server-20180503T025436Z-001 - Copy\Client_Server\Client\bin\Debug\Client.exe
+E:\Project\lab5\Client_Server-20180503T025436Z-001 - Copy\Client_Server\Client\bin\Debug\Client.pdb
+E:\Project\lab5\Client_Server_final\Client_Server\Client\bin\Debug\Client.exe.config
+E:\Project\lab5\Client_Server_final\Client_Server\Client\obj\Debug\Client.exe
+E:\Project\lab5\Client_Server_final\Client_Server\Client\obj\Debug\Client.pdb
+E:\Project\lab5\Client_Server_final\Client_Server\Client\bin\Debug\Client.exe
+E:\Project\lab5\Client_Server_final\Client_Server\Client\bin\Debug\Client.pdb
+E:\Project\lab5\Client_Server_final\Client_Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Project\lab5\Client_Server_final\Client_Server\Client\obj\Debug\Client.Form1.resources
+E:\Project\lab5\Client_Server_final\Client_Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Project\lab5\Client_Server_final\Client_Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Project\lab5\Client_Server_final - Copy (3)\Client_Server\Client\bin\Debug\Client.exe.config
+E:\Project\lab5\Client_Server_final - Copy (3)\Client_Server\Client\obj\Debug\Client.exe
+E:\Project\lab5\Client_Server_final - Copy (3)\Client_Server\Client\obj\Debug\Client.pdb
+E:\Project\lab5\Client_Server_final - Copy (3)\Client_Server\Client\bin\Debug\Client.exe
+E:\Project\lab5\Client_Server_final - Copy (3)\Client_Server\Client\bin\Debug\Client.pdb
+E:\Project\lab5\Client_Server_final - Copy (3)\Client_Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Project\lab5\Client_Server_final - Copy (3)\Client_Server\Client\obj\Debug\Client.Form1.resources
+E:\Project\lab5\Client_Server_final - Copy (3)\Client_Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Project\lab5\Client_Server_final - Copy (3)\Client_Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Project\lab5\Client_Server_final_4\Client_Server\Client\bin\Debug\Client.exe.config
+E:\Project\lab5\Client_Server_final_4\Client_Server\Client\obj\Debug\Client.exe
+E:\Project\lab5\Client_Server_final_4\Client_Server\Client\obj\Debug\Client.pdb
+E:\Project\lab5\Client_Server_final_4\Client_Server\Client\bin\Debug\Client.exe
+E:\Project\lab5\Client_Server_final_4\Client_Server\Client\bin\Debug\Client.pdb
+E:\Project\lab5\Client_Server_final_4\Client_Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Project\lab5\Client_Server_final_4\Client_Server\Client\obj\Debug\Client.Form1.resources
+E:\Project\lab5\Client_Server_final_4\Client_Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Project\lab5\Client_Server_final_4\Client_Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache

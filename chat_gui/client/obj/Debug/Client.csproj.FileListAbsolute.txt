@@ -1,0 +1,38 @@
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.Properties.Resources.resources
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.exe.config
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.exe
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.pdb
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.exe
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.pdb
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN._client.resources
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.exe.config
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.exe
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.pdb
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN._client.resources
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.Properties.Resources.resources
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.exe
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.pdb
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.exe.config
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.exe
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.pdb
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN._client.resources
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.Properties.Resources.resources
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.exe
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.pdb
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.exe.config
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.exe
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.pdb
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.exe
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\BaiTH3_BTVN\bin\Debug\BaiTH3_BTVN.pdb
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN._client.resources
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\BaiTH3_BTVN.Properties.Resources.resources
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\BaiTH3_BTVN\obj\Debug\Client.csproj.GenerateResource.Cache

@@ -1,0 +1,39 @@
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\bin\Debug\Server.exe.config
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\bin\Debug\Server.exe
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\bin\Debug\Server.pdb
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\obj\Debug\Server.exe
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\obj\Debug\Server.pdb
+C:\Users\8470p\Desktop\ltmcbtemp\BaiTH3_BTVN\Server\obj\Debug\Server._server.resources
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\bin\Debug\Server.exe.config
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\bin\Debug\Server.exe
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\bin\Debug\Server.pdb
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\obj\Debug\Server._server.resources
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\obj\Debug\Server.exe
+C:\Users\8470p\Desktop\ltmcbtemp\16520981\16520981\BaiTH3_BTVN\BaiTH3_BTVN\Server\obj\Debug\Server.pdb
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\bin\Debug\Server.exe.config
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\bin\Debug\Server.exe
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\bin\Debug\Server.pdb
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\obj\Debug\Server._server.resources
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\obj\Debug\Server.exe
+C:\Users\8470p\Desktop\ThucHanhMatMaHoc\task 3.3\BaiTH3_BTVN\Server\obj\Debug\Server.pdb
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\Server\bin\Debug\Server.exe.config
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\Server\obj\Debug\Server.exe
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\Server\obj\Debug\Server.pdb
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\Server\bin\Debug\Server.exe
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\Server\bin\Debug\Server.pdb
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\Server\obj\Debug\Server._server.resources
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Zero\Downloads\Compressed\BaiTH3_BTVN\Server\obj\Debug\Server.csproj.GenerateResource.Cache
